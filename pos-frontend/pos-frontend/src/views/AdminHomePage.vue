@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="cont">
-      <!-- <div class="left"><img src="../assets/hello.gif"/></div> -->
+      <div class="left"><img src="../assets/hello.gif"/></div>
       <div class="right">
         <span style="font-weight: bold">Welcome Back, Dhivya</span>
         <p>
@@ -171,7 +171,7 @@ export default {
   margin: 1%;
   padding: 2% 2% 2% 3%;
   box-shadow: 0px 0px 10px 2px rgb(201, 201, 201);
-  /* background-image: url('../assets/bg.gif'); */
+  background-image: url('../assets/bg.gif');
   /* background-image: url('../assets/splash.gif'); */
 }
 input::-webkit-outer-spin-button,
